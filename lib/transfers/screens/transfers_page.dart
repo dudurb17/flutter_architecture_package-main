@@ -1,7 +1,7 @@
+import 'package:bytebank_balance/widgets/balance_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bytebank/_core/constants/bytebank_colors.dart';
 import 'package:flutter_bytebank/_core/constants/bytebank_transfers_types.dart';
-import 'package:flutter_bytebank/_core/widgets/balance_widget.dart';
 import 'package:flutter_bytebank/_core/widgets/height_margin.dart';
 import 'package:flutter_bytebank/transfers/widgets/transfer_amount_input_widget.dart';
 import 'package:flutter_bytebank/transfers/widgets/transfer_background_widget.dart';
